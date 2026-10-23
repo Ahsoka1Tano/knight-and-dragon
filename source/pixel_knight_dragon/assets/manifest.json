@@ -1,0 +1,196 @@
+{
+  "knight": {
+    "idle": {
+      "file": "knight_idle.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "walk": {
+      "file": "knight_walk.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "attack": {
+      "file": "knight_attack.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 17.4,
+      "loop": false
+    },
+    "guard": {
+      "file": "knight_guard.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "hurt": {
+      "file": "knight_hurt.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "death": {
+      "file": "knight_death.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 8,
+      "loop": false
+    },
+    "propose": {
+      "file": "knight_propose.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": false
+    },
+    "victory": {
+      "file": "knight_victory.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "wedding": {
+      "file": "knight_wedding.png",
+      "size": [
+        96,
+        96
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    }
+  },
+  "dragon": {
+    "idle": {
+      "file": "dragon_idle.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "walk": {
+      "file": "dragon_walk.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "windup_claw": {
+      "file": "dragon_windup_claw.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "windup_fire": {
+      "file": "dragon_windup_fire.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "windup_roar": {
+      "file": "dragon_windup_roar.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "claw": {
+      "file": "dragon_claw.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "fire": {
+      "file": "dragon_fire.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "roar": {
+      "file": "dragon_roar.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "death": {
+      "file": "dragon_death.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 8,
+      "loop": false
+    },
+    "wedding": {
+      "file": "dragon_wedding.png",
+      "size": [
+        256,
+        208
+      ],
+      "count": 8,
+      "fps": 10,
+      "loop": true
+    }
+  }
+}
